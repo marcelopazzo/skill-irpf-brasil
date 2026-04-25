@@ -4,6 +4,10 @@
 [![Status](https://img.shields.io/badge/status-projeto%20pessoal-orange.svg)](#-disclaimer-importante)
 [![Ano-base](https://img.shields.io/badge/IRPF-2026%20%28ano--base%202025%29-blue.svg)](#-escopo)
 [![Idioma](https://img.shields.io/badge/idioma-pt--BR-green.svg)](#)
+[![GitHub Pages](https://img.shields.io/badge/docs-online-blue.svg)](https://danielbluz.github.io/skill-irpf-brasil/)
+[![Release](https://img.shields.io/github/v/release/Danielbluz/skill-irpf-brasil?label=version)](https://github.com/Danielbluz/skill-irpf-brasil/releases/latest)
+
+> 🌐 **Documentação online**: https://danielbluz.github.io/skill-irpf-brasil/
 
 > **Agent Skill** (formato Anthropic) que orienta o contribuinte brasileiro sobre o **Imposto de Renda Pessoa Física (IRPF) 2026** — ciclo do ano-base 2025. Foco em **auditoria, leitura de DBK, e prevenção de malha fina** — não substitui o programa oficial da Receita Federal nem orientação contábil profissional.
 

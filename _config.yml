@@ -1,0 +1,43 @@
+# GitHub Pages — Jekyll config
+# Tema oficial GitHub Pages: Cayman (limpo, profissional, responsivo)
+
+title: skill-irpf-brasil
+description: >
+  Agent Skill (formato Anthropic) para auxiliar contribuintes brasileiros
+  na declaração do IRPF 2026 (ano-base 2025). Projeto pessoal e amador —
+  consulte um contador para casos relevantes.
+
+theme: jekyll-theme-cayman
+
+# Não processar arquivos especiais
+exclude:
+  - scripts/parse_dbk.py
+  - .gitignore
+  - DISCLAIMER.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - .github/
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins permitidos pelo GitHub Pages
+plugins:
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-seo-tag
+
+# Permitir links relativos para arquivos .md (renderiza como HTML)
+relative_links:
+  enabled: true
+  collections: true
+
+# Footer customizado
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/Danielbluz/skill-irpf-brasil
