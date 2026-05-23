@@ -146,11 +146,12 @@ Se houver imposto a pagar em atraso após retificação:
 
 | Código DARF | Aplicação |
 |---|---|
-| **0211** | IRPF — Quota única ou demais quotas (declaração) |
-| **0190** | Carnê-Leão |
-| **6015** | Ganhos líquidos em renda variável |
-| **8053** | Ganho de capital — alienação de bens |
-| **4600** | Multa por atraso de declaração |
+| **0211** | IRPF — Quota única ou demais quotas (DAA). Multa por atraso de declaração é **agregada** automaticamente neste DARF — não tem código próprio. |
+| **0190** | Carnê-Leão (rendimentos de PF, exterior, aluguel de PF) |
+| **0246** | Recolhimento complementar opcional |
+| **6015** | Ganhos líquidos em renda variável (PF) — perguntão 730 |
+| **4600** | **Ganho de capital** — alienação de bens, doação em adiantamento da legítima, criptoativos GCAP — perguntões 615, 643 |
+| **5720** | Criptoativos (operações em exchanges domiciliadas no Brasil — IN 1.888/2019) |
 
 Acessar **https://sicalc.receita.fazenda.gov.br** para gerar DARF com vencimento + multa + juros calculados.
 

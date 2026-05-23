@@ -52,15 +52,43 @@ Permite somar deduções específicas, sujeitas a limites individuais e regras d
 
 ## Tabela progressiva anual IRPF 2026 (ano-base 2025)
 
-Atenção: é a tabela aplicada **sobre a base anual de 2025**, não a tabela mensal. Conforme IN RFB nº 2.312/2026:
+Atenção: é a tabela aplicada **sobre a base anual de 2025**, não a tabela mensal. Conforme Perguntas e Respostas IRPF 2026 (pergunta 061) e IN RFB nº 1.500/2014 Anexo VII inciso VII:
 
 | Base de cálculo anual | Alíquota | Parcela a deduzir |
 |---|---|---|
-| Até R$ 29.145,60 | 0% | — |
-| De R$ 29.145,61 a R$ 33.919,80 | 7,5% | R$ 2.185,92 |
-| De R$ 33.919,81 a R$ 45.012,60 | 15% | R$ 4.729,91 |
-| De R$ 45.012,61 a R$ 55.976,16 | 22,5% | R$ 8.105,85 |
-| Acima de R$ 55.976,16 | 27,5% | R$ 10.904,66 |
+| Até R$ 28.467,20 | 0% | R$ 0,00 |
+| De R$ 28.467,21 a R$ 33.919,80 | 7,5% | R$ 2.135,04 |
+| De R$ 33.919,81 a R$ 45.012,60 | 15% | R$ 4.679,03 |
+| De R$ 45.012,61 a R$ 55.976,16 | 22,5% | R$ 8.054,97 |
+| Acima de R$ 55.976,16 | 27,5% | R$ 10.853,78 |
+
+> **Por que o limite de isenção anual não é R$ 29.145,60?** A tabela mensal teve dois regimes em 2025 — janeiro a abril com isenção até R$ 2.259,20/mês, e maio a dezembro com isenção até R$ 2.428,80/mês (reajuste do salário mínimo). A anualização correta é ponderada: (R$ 2.259,20 × 4) + (R$ 2.428,80 × 8) = **R$ 28.467,20**.
+
+### Tabela progressiva mensal — ano-calendário de 2025
+
+Útil para cálculo de Carnê-Leão, retenção na fonte de aluguel/autônomo e simulações mensais. **Há duas tabelas no mesmo ano-calendário**:
+
+**Janeiro a Abril/2025:**
+
+| Base mensal (R$) | Alíquota | Parcela a deduzir (R$) |
+|---|---|---|
+| Até 2.259,20 | 0% | 0,00 |
+| 2.259,21 a 2.826,65 | 7,5% | 169,44 |
+| 2.826,66 a 3.751,05 | 15% | 381,44 |
+| 3.751,06 a 4.664,68 | 22,5% | 662,77 |
+| Acima de 4.664,68 | 27,5% | 896,00 |
+
+**Maio a Dezembro/2025:**
+
+| Base mensal (R$) | Alíquota | Parcela a deduzir (R$) |
+|---|---|---|
+| Até 2.428,80 | 0% | 0,00 |
+| 2.428,81 a 2.826,65 | 7,5% | 182,16 |
+| 2.826,66 a 3.751,05 | 15% | 394,16 |
+| 3.751,06 a 4.664,68 | 22,5% | 675,49 |
+| Acima de 4.664,68 | 27,5% | 908,73 |
+
+Fonte: Perguntas e Respostas IRPF 2026, perguntas relacionadas a aluguéis (pergunta 197 e adjacentes).
 
 ### Isenção adicional para aposentados 65+
 

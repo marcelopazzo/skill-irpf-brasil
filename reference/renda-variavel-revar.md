@@ -117,10 +117,15 @@ Exemplo:
 ## Criptomoedas (Bitcoin, ETH, etc)
 
 Não é renda variável tradicional, mas ainda é tributado:
-- **Isenção**: vendas mensais até **R$ 35.000** somando todas as criptos.
-- Acima disso: 15% sobre ganho de capital, com alíquotas progressivas a partir de R$ 5 milhões.
+- **Isenção**: vendas mensais até **R$ 35.000** somando todas as criptos (regra de bens de pequeno valor).
+- Acima disso: tabela progressiva de ganho de capital — 15% até R$ 5M, 17,5% até R$ 10M, 20% até R$ 30M, 22,5% acima.
 - Apuração via **GCAP** (programa de Ganho de Capital), não pelo programa do IRPF nativamente.
-- Saldo em 31/12/2025: declarar em Bens e Direitos código **08** (criptoativos), grupo 99.
+- Saldo em 31/12/2025: declarar em Bens e Direitos no **Grupo 08 — Criptoativos** quando o valor de aquisição **de cada tipo** for ≥ **R$ 5.000** (Perguntão IRPF 2026, pergunta 473). Códigos dentro do Grupo 08:
+  - **01** — Bitcoin (BTC)
+  - **02** — Outras criptomoedas / altcoins (ETH, BNB, XRP, BCH, LTC, ADA, SOL, DOGE, etc)
+  - **03** — Stablecoins (USDT, BRZ, USDC, BUSD, DAI, PAXG, etc)
+  - **10** — NFTs (Non-Fungible Tokens)
+  - **99** — Outros criptoativos (fan tokens, tokens de precatório, consórcio, crédito de carbono, etc)
 
 ## Ferramenta auxiliar: `irpf-investidor`
 

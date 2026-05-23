@@ -39,61 +39,68 @@ Se o saldo na **carteira virtual da bet** em **31/12/2025 às 23:59** for **supe
 
 ## 2. Tributação de prêmios
 
-### Tipo de tributação: DEFINITIVA / EXCLUSIVA NA FONTE
-Significado prático:
-- O imposto recolhido **NÃO** vira crédito para abater outros impostos (como salário).
-- **NÃO** será restituído mesmo que o apostador tenha prejuízos massivos.
-- Cada prêmio é um evento fiscal autônomo.
+### Tipo de tributação: DEFINITIVA / EXCLUSIVA
 
-### Apuração — POR EVENTO (não anual)
+- O imposto **não** vira crédito para abater outros impostos.
+- **Não** é restituível.
+- Lançar na ficha "Rendimentos Sujeitos à Tributação Exclusiva/Definitiva", Tipo de Rendimento **"13 — Prêmios líquidos obtidos em loterias de apostas de quota fixa — Lei nº 14.790/2023"**.
 
-**ATENÇÃO REGULATÓRIA CRÍTICA** (IN RFB nº 2.191/2024):
+### Apuração — ANUAL, POR NATUREZA DE APOSTA
 
-A apuração do imposto sobre prêmios líquidos é **POR EVENTO** — não consolidada anualmente.
+**Fonte autoritativa**: Perguntão IRPF 2026, pergunta 318; art. 31 da Lei nº 14.790/2023.
 
-> "A apuração deve ser concretizada, de forma isolada, **para cada aposta após o encerramento de evento real de temática esportiva ou para cada sessão de evento virtual de jogo on-line**." — IN RFB 2.191/2024
+A apuração do prêmio líquido é **anual** (não por evento), e separada por **natureza**:
+
+1. **Eventos reais de temática esportiva** (futebol, basquete, etc).
+2. **Eventos virtuais de jogos on-line** (cassino, slots, etc).
+3. **Fantasy sport**.
+
+**Algoritmo oficial** (passos do Perguntão 2026):
+
+1. Para cada **agente operador** (plataforma) e cada **natureza** de aposta, somar ganhos e subtrair perdas no ano (incluindo todas as marcas comerciais do operador).
+2. Para cada **natureza**, somar os resultados de **todos os operadores** — obtendo o **resultado líquido anual por natureza**.
+3. **Prêmio líquido total** = soma apenas dos **resultados positivos por natureza** (resultados negativos em uma natureza **NÃO compensam** ganhos em outra).
+4. Subtrair a primeira faixa da tabela progressiva anual (R$ 28.467,20 em 2025).
+5. Aplicar 15% sobre o excedente.
+
+> **Exemplo do Perguntão**: João ganhou R$ 62.000 em eventos reais somando 2 operadores, e teve **perda** líquida de R$ 39.000 em eventos virtuais. Prêmio líquido = R$ 62.000 (perda em virtual não abate). Imposto = (62.000 − 28.467,20) × 15% = **R$ 5.029,92**.
 
 **Implicações práticas**:
-- ❌ **NÃO existe compensação** de perdas em outros eventos contra ganhos em um evento.
-- ❌ **NÃO existe consolidação anual** de "lucro líquido total" de bets.
-- ❌ **NÃO se subtrai** sessões perdedoras de sessões ganhadoras para reduzir base.
-- ✅ Cada evento/sessão é um fato gerador isolado.
+- ✅ Perdas DENTRO da mesma natureza compensam ganhos da mesma natureza, no ANO inteiro.
+- ❌ Perdas em **eventos virtuais** NÃO compensam ganhos em **eventos reais** (nem vice-versa).
+- ❌ Perdas em fantasy sport NÃO compensam ganhos em apostas esportivas.
 
-**Exemplo prático**:
-- Apostador ganhou R$ 5.000 num jogo de futebol em março/2025.
-- Apostador perdeu R$ 4.500 em vários outros eventos durante o ano.
-- Para fins de IR: o prêmio líquido tributável é **R$ 5.000** (do evento ganhador), não R$ 500 (saldo).
-- Plataforma autorizada já reteve 15% sobre o excedente da isenção desse evento.
+### Quem paga e quando
 
-### Faixa de isenção
-**Por evento ganhador**: o prêmio líquido isento corresponde à **primeira faixa da tabela progressiva mensal vigente** no ano-calendário do evento (R$ 2.259,20/mês em 2025).
+**Quem apura**: o **próprio apostador** (não a plataforma).
 
-> Limite anual de referência: R$ 28.467,20 (12× R$ 2.372,27 — primeira faixa anual). Mas o limite operacional é por evento.
+**Quando**:
+- A plataforma envia o **ComprovaBet** até o último dia útil de **fevereiro/2026** (com os resultados de 2025).
+- O contribuinte usa o **aplicativo específico da RFB** em https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/impostos/pagamento-aposta-de-quota-fixa-e-fantasy-sport/aplicativo.html para apurar o imposto.
+- Pagamento via **DARF** até o último dia útil de **abril/2026**.
+
+**Não é retenção na fonte**: ao contrário de salário ou aplicações financeiras, a plataforma de bets **não retém** o imposto no pagamento dos prêmios — apenas fornece o ComprovaBet. O contribuinte calcula e paga.
+
+### Faixa de isenção anual
+- **R$ 28.467,20** em 2025 (primeira faixa da tabela progressiva **anual** — não mensal, não por evento).
+- Aplica-se uma única vez, sobre o **prêmio líquido total** consolidado anual.
 
 ### Alíquota sobre o excedente
-**15%** sobre o que exceder a faixa isenta — recolhida automaticamente pela plataforma autorizada via DARF.
-
-Exemplo:
-- Prêmios líquidos totais 2025: R$ 50.000.
-- Isenção: R$ 28.467,20.
-- Tributável: R$ 21.532,80.
-- IR devido: 15% × R$ 21.532,80 = R$ 3.229,92.
+**15%** sobre o que exceder R$ 28.467,20 — apurada pelo apostador via aplicativo da RFB e paga via DARF próprio.
 
 ## Distinção decisiva: Plataforma Nacional vs Offshore
 
 ### Plataforma Nacional Autorizada
 **Quem são**: empresas com licença do Ministério da Fazenda (lista oficial em https://www.gov.br/fazenda → SPA — Secretaria de Prêmios e Apostas). Exemplos atuais (sujeito a atualização): Bet365, Betano, Sportingbet, F12.bet, Esportes da Sorte, etc — **somente as licenciadas**.
 
-**Responsabilidade fiscal**: a **própria empresa retém** o imposto (15%) sobre o excedente da isenção e repassa à RFB. O apostador **não recolhe DARF**.
+**Responsabilidade fiscal**: a plataforma autorizada **fornece o ComprovaBet** ao contribuinte até último dia útil de fevereiro/2026. **O apostador** é quem apura e paga o DARF próprio até abril/2026 (não há retenção na fonte pela bet sobre os prêmios pagos ao apostador).
 
 **Como declarar**:
 - Ficha: **Rendimentos Sujeitos à Tributação Exclusiva/Definitiva**.
-- Campo específico: "Prêmios líquidos obtidos em loterias de apostas de quota fixa — Lei 14.790/2023" (novo em 2026).
-- Alternativa (se programa não trouxer o campo específico): "12 — Outros".
-- CNPJ: da plataforma autorizada.
+- Tipo de Rendimento: **"13 — Prêmios líquidos obtidos em loterias de apostas de quota fixa — Lei 14.790/2023"**.
+- CNPJ: do agente operador (constante no ComprovaBet).
 - Tipo de Beneficiário: Titular ou Dependente.
-- Valor: prêmio líquido bruto recebido (antes da retenção).
-- IR retido: o que a empresa já reteve.
+- Valor: prêmio líquido conforme apuração anual por natureza (passo 3 acima).
 
 ### Plataforma Offshore (não autorizada / internacional)
 **Exemplos**: plataformas sem licença brasileira, sediadas em Curaçao, Malta, Gibraltar, etc.
@@ -142,16 +149,16 @@ Para plataformas offshore, **não existe ComprovaBet**. Usar:
 
 ## Cálculo prático para apostadores frequentes
 
-Cuidado com a **soma mensal vs anual**:
+Pontos-chave:
 
-- A isenção de R$ 28.467,20 é **anual**, não mensal.
-- O apostador pode ter ganhado R$ 5.000 num mês e perdido R$ 4.000 no outro — só importa o **líquido anual** dos meses de ganho.
-
-Mas atenção: se o apostador joga em **múltiplas plataformas**, deve **somar todas** para verificar a faixa de isenção. Não há isenção por plataforma.
+- A isenção de R$ 28.467,20 é **anual**, não mensal e não por evento (Perguntão 318).
+- A apuração é **anual por natureza**: ganhos e perdas dentro da **mesma natureza** (ex: ambos em eventos reais esportivos) se compensam ao longo do ano. Entre **naturezas diferentes**, perdas NÃO compensam.
+- Se o apostador joga em **múltiplas plataformas**, somar **todas** por natureza antes de comparar com a faixa de isenção. Não há isenção por plataforma.
+- **Ordem dos passos**: (1) apurar líquido por operador × natureza; (2) consolidar líquido por natureza somando operadores; (3) somar apenas naturezas com resultado positivo; (4) subtrair R$ 28.467,20; (5) aplicar 15%; (6) pagar DARF até último dia útil de abril/2026.
 
 ## Erros comuns
 
-- ❌ Não declarar saldo > R$ 800 → omissão patrimonial, malha fina certa.
+- ❌ Não declarar saldo de carteira virtual > R$ 140 quando obrigado a entregar a DAA → omissão patrimonial, risco de malha fina.
 - ❌ Confundir prêmio bruto com prêmio líquido (líquido é após descontar a aposta).
 - ❌ Tentar compensar perdas de cassino com ganhos esportivos — **não há compensação**.
 - ❌ Ignorar plataforma offshore achando que "ninguém vai descobrir" — Banco Central reporta movimentações ao fisco.
@@ -163,12 +170,13 @@ Mas atenção: se o apostador joga em **múltiplas plataformas**, deve **somar t
 Se o usuário disser:
 - "Ganhei muito em 2025 mas não declarei nada" → carregar este arquivo + **malha-fina-esocial.md** para entender riscos.
 - "Aposto em [plataforma]" → verificar se está na lista do Ministério da Fazenda. Se não, é offshore.
-- "Tenho R$ 1.500 parados na bet" → declarar em Bens (> R$ 800).
+- "Tenho R$ 1.500 parados na bet" → declarar em Bens (saldo > R$ 140 e contribuinte obrigado a entregar DAA).
 - "Joguei muito mas perdi tudo" → não há nada a tributar (não há prêmio líquido), mas se houve **algum** prêmio durante o ano, pode haver retenção registrada que precisa ser declarada.
 
 ## Fontes oficiais para consulta
 
-- Lei nº 14.790/2023.
-- Instrução Normativa RFB nº 2.312/2026.
-- Portaria SPA/MF (lista de plataformas autorizadas — atualizada periodicamente).
-- Portal Gov.br → Receita Federal → "Meu IR".
+- **Lei nº 14.790, de 29/12/2023** — art. 31 (tributação definitiva).
+- **Perguntão IRPF 2026, pergunta 318** — algoritmo de apuração anual por natureza, com exemplo detalhado.
+- **Aplicativo da RFB** para cálculo: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/impostos/pagamento-aposta-de-quota-fixa-e-fantasy-sport/aplicativo.html
+- **Portaria SPA/MF** (lista de plataformas autorizadas — atualizada periodicamente).
+- **Portal Gov.br** → Receita Federal → "Meu IR".

@@ -11,6 +11,8 @@ Para 2026, a Receita Federal **comprimiu** o cronograma de 5-6 meses (histórico
 | **3º Lote** | 31/07/2026 |
 | **4º Lote** | 28/08/2026 |
 
+Fonte: **Ato Declaratório Executivo RFB nº 2, de 13 de março de 2026** (citado no Perguntas e Respostas IRPF 2026, pergunta 076).
+
 **Estimativa oficial**: 80% das restituições serão pagas até o 2º lote (junho).
 
 ## Ordem de prioridade legal
@@ -44,6 +46,8 @@ Pagamento dentro de cada lote segue rigorosamente esta ordem:
 Se o usuário ainda não tem PIX-CPF: orientar a cadastrar **antes** de transmitir. Isso pode adiantar 1-2 lotes na restituição.
 
 ## O programa "Cashback IRPF" — novidade 2026
+
+> **Fontes oficiais**: Comunicado da Secretaria de Comunicação Social (SECOM) — https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/03/imposto-de-renda-2026-tera-201ccashback201d-para-contribuintes-que-ganham-ate-cerca-de-dois-salarios-minimos — e Agência Brasil/EBC. **Não consta no "Perguntas e Respostas IRPF 2026" oficial da RFB**, pois é programa de devolução automática anunciado em paralelo ao processo regular de declaração.
 
 ### Conceito
 Em 2025, milhões de pessoas **abaixo do limite de obrigatoriedade** (R$ 35.584,00) tiveram **IR retido na fonte** em pagamentos pontuais:

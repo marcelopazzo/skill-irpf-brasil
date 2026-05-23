@@ -38,29 +38,37 @@ Aplicam-se sobre o ganho líquido (valor de venda − custo de aquisição − d
 
 > Atraso no DARF gera multa de mora (0,33% ao dia, máx. 20%) + juros SELIC.
 
-## Isenção — Imóvel residencial único
+## Isenção — Único imóvel (R$ 440.000,00)
 
-**Isento** o ganho de capital na venda de imóveis se cumpridos **TODOS**:
+**Isento** o ganho de capital na venda do **único bem imóvel** do contribuinte se cumpridos **TODOS**:
 
-1. O imóvel vendido é **residencial** (não comercial, não terreno).
-2. O proprietário não realizou outra alienação isenta nos **últimos 5 anos**.
-3. O valor da alienação é de **até R$ 440.000,00**.
-4. O contribuinte não possuía outro imóvel residencial em seu patrimônio na data da operação (ou, se possuía, está alienando).
+1. É o **único imóvel** do contribuinte (individualmente, em condomínio ou em comunhão), **independentemente do tipo** — terreno, terra nua, casa, apartamento; residencial, comercial, industrial ou de lazer; urbano ou rural (Perguntão 2026, perguntas 672, 683, 684; Lei 9.250/1995 art. 23).
+2. **Valor da alienação igual ou inferior a R$ 440.000,00** (por matrícula no registro de imóveis = um imóvel).
+3. **Não realizou outra alienação de imóvel** a qualquer título — **tributada ou não** — nos últimos **5 anos**.
 
-> **Limite de uma alienação por 5 anos**: vendeu imóvel residencial isento em 2023? Só pode aplicar a isenção novamente em 2028.
+> **Atenção 1**: a restrição "qualquer outra alienação tributada OU não" inclui inclusive doações, partilhas com dação em pagamento, etc. (pergunta 685).
+>
+> **Atenção 2**: para coproprietários, o limite de R$ 440.000,00 é considerado **em relação à parte de cada condômino** (não ao valor total).
+>
+> **Atenção 3**: vendeu qualquer imóvel em 2023? Só pode aplicar a isenção novamente em **2028**.
 
 ## Isenção — Reinvestimento em outro imóvel residencial (180 dias)
 
-Mesmo SEM atender ao limite de R$ 440 mil, há isenção se:
+Mesmo SEM atender ao limite de R$ 440 mil, há isenção se (Lei 11.196/2005 art. 39; Perguntão 2026):
 
-1. O imóvel vendido é residencial **OU** o produto da venda está sendo usado para adquirir/construir imóvel residencial.
-2. O contribuinte aplica **TODO** o produto da venda na compra de **outro imóvel residencial** localizado no Brasil.
-3. A nova compra ocorre em até **180 dias** contados da data do contrato de venda.
-4. O contribuinte não usou essa isenção nos últimos 5 anos.
+1. O imóvel **vendido é residencial** (não comercial, não terreno).
+2. O contribuinte aplica o produto da venda na **aquisição de outros imóveis residenciais** localizados no Brasil, em seu nome.
+3. A nova aquisição ocorre em até **180 dias** contados da **celebração do contrato** (a contagem **inclui** a data do contrato).
+4. O contribuinte **não usou** esta isenção nos últimos 5 anos.
+5. A opção pela isenção é **irretratável** e deve ser informada no Demonstrativo de Apuração dos Ganhos de Capital da DAA.
 
-**Aplicação parcial**: se aplica apenas parte do produto da venda na nova aquisição, há tributação proporcional sobre o ganho não-reinvestido.
+**Múltiplas vendas/aquisições**:
+- Na venda de mais de 1 imóvel: o prazo de 180 dias é contado a partir da **primeira venda**.
+- Na aquisição de mais de 1 imóvel: a isenção aplica-se ao ganho proporcional à parcela empregada na aquisição de imóveis residenciais.
 
-**Imposto de até 5 anos depois**: se vender o imóvel adquirido com a isenção em até 5 anos, deve recolher o IR diferido com correção SELIC.
+**Aplicação parcial**: se aplicar apenas parte do produto da venda na nova aquisição, há tributação proporcional sobre o ganho **não reinvestido**.
+
+**Não cumprimento dos requisitos**: se o contribuinte não aplicar o produto da venda em imóvel residencial dentro dos 180 dias (ou aplicar apenas parcialmente), o saldo do imposto sobre o ganho de capital deve ser recolhido com **multa de mora + juros SELIC** computados desde a data da celebração do contrato.
 
 ## Custo de aquisição — Componentes dedutíveis
 

@@ -217,8 +217,8 @@ Arquivos DBK/DEC contêm:
 A skill `irpf-brasil` inclui o script `scripts/parse_dbk.py` (Python stdlib only) que:
 
 1. Lê o DBK e estatística por tipo de registro.
-2. Extrai estrutura agregada (sem expor valores sensíveis).
-3. Cruza contra as regras dos 8 arquivos de referência da skill.
+2. Extrai estrutura agregada (sem expor valores sensíveis por padrão; CPF/CNPJ mascarados).
+3. Aplica heurísticas de auditoria contra regras das 14 referências da skill.
 4. Gera um relatório `.md` de auditoria pré-transmissão.
 
 Uso:

@@ -147,7 +147,7 @@ A Lei 14.754/2023 manteve **regras de isenção** para casos pessoais de baixo v
 ### C. Variação cambial sobre moeda estrangeira em espécie (cédulas)
 - **ISENTA** se a soma das alienações no ano-calendário **NÃO superar US$ 5.000** (ou equivalente).
 - Ex: Voltou de viagem, sobraram US$ 800. Vendeu na casa de câmbio em 2025: **isento**.
-- Acima de US$ 5.000 anuais em vendas: tributação a 15% sobre o ganho (diferença entre valor de venda e valor de aquisição).
+- Acima de US$ 5.000 anuais em vendas: tributação como **ganho de capital** (art. 21 da Lei 8.981/1995, Perguntão 643) — **tabela progressiva**: 15% até R$ 5M, 17,5% até R$ 10M, 20% até R$ 30M, 22,5% acima. DARF próprio até último dia útil do mês seguinte à alienação.
 
 ### D. Aplicação financeira em moeda estrangeira (CDB-USD, fundos cambiais)
 - Investida **dentro do Brasil** (instituição brasileira): segue regras nacionais (renda fixa).

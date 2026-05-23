@@ -37,7 +37,17 @@ O **inventariante** apresenta a declaração em nome do espólio, usando o CPF d
 
 ### Prazo da Declaração Final
 
-Deve ser entregue **até 30 (trinta) dias** após o trânsito em julgado da decisão judicial OU lavratura da escritura pública de partilha. Atraso gera multa proporcional.
+Conforme Perguntão IRPF 2026 (perguntas 107-108) e Lei 9.532/1997 art. 23, o prazo depende de quando ocorreu o trânsito em julgado ou a lavratura da escritura:
+
+| Quando o trânsito em julgado / escritura ocorreu | Prazo da Declaração Final de Espólio |
+|---|---|
+| Partilha em 2025, com trânsito em julgado **até 28/02/2026** | Prazo normal do IRPF: até **29/05/2026** |
+| Trânsito em julgado entre **01/03/2025 e 28/02/2026** (ainda dentro do ciclo 2026) | Até **29/05/2026** |
+| Trânsito em julgado entre **01/03/2026 e 28/02/2027** | Até **último dia útil de abril/2027** |
+
+> **NÃO existe "30 dias após o trânsito em julgado"** — a regra é sempre o prazo do IRPF do ciclo seguinte ao trânsito em julgado.
+>
+> **Pagamento do imposto apurado**: mesmo prazo da Declaração Final, **sem possibilidade de parcelamento**.
 
 ### Erros frequentes em espólio
 

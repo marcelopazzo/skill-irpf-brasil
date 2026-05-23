@@ -43,6 +43,8 @@ A base é alimentada por múltiplas fontes:
 
 ## Núcleo Familiar — A grande novidade de 2026
 
+> **Nota terminológica**: "Núcleo Familiar" é o nome **midiático/comercial**. O Perguntão IRPF 2026 oficial (perguntas 028-031) refere-se ao recurso apenas como "Declaração Pré-Preenchida com dados de dependentes". A funcionalidade e o efeito são os mesmos.
+
 **Conceito**: Quando o titular adiciona um dependente, o sistema **importa automaticamente** todos os eventos fiscais associados ao CPF do dependente — não só dados de anos anteriores, mas também os do ano-calendário 2025.
 
 ### Como funciona na prática

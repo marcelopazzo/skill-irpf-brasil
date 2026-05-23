@@ -9,10 +9,11 @@ Skill especializada em orientar pessoas físicas residentes no Brasil sobre a De
 
 ## Premissas operacionais
 
-- **Período de entrega**: 23/03/2026 a 29/05/2026 (Instrução Normativa RFB nº 2.312).
+- **Período de entrega**: 23/03/2026 a 29/05/2026 (Instrução Normativa RFB nº 2.312/2026).
 - **Multa por atraso**: R$ 165,74 (mínima) até 20% do imposto devido.
 - **Não substitua o programa oficial da RFB.** Esta skill orienta, audita e tira dúvidas. Os números finais devem ser revisados no programa da Receita.
 - **Nova isenção de R$ 5.000/mês NÃO vale para IRPF 2026.** Só se aplica ao ciclo 2027 (ano-base 2026). Para 2026, o limite de obrigatoriedade por rendimento tributável continua R$ 35.584,00.
+- **Fonte autoritativa de valores e regras**: "Perguntas e Respostas IRPF 2026" v1.00 (RFB, 23/04/2026) — 745 perguntas, considera legislação até dezembro/2025. Em qualquer divergência entre esta skill e o documento oficial, **prevalece o documento oficial**. Ver `REFERENCE.md` para URL e demais fontes primárias.
 
 ## Fluxo de trabalho (executar nesta ordem)
 

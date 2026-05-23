@@ -2,6 +2,18 @@
 
 Esta skill segue o padrão de **progressive disclosure**: o `SKILL.md` carrega apenas o esqueleto operacional. Os detalhes regulatórios ficam aqui, em arquivos especializados que devem ser carregados **sob demanda** conforme o tema da conversa.
 
+## Fontes primárias oficiais
+
+Em caso de dúvida sobre qualquer valor, alíquota ou regra, **a fonte autoritativa** é, nesta ordem:
+
+1. **Perguntas e Respostas IRPF 2026** (RFB, versão 1.00 de 23/04/2026) — 745 perguntas, 340 páginas, considera legislação até dezembro/2025. URL: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/dirpf/p-r-irpf-2026-v1-00-2026-04-23.pdf
+2. **Instrução Normativa RFB nº 2.312, de 13 de março de 2026** (DOU 16/03/2026, Ed. 50, Seção 1, p. 90) — regulamenta a apresentação da DAA do exercício 2026.
+3. **Ato Declaratório Executivo RFB nº 2, de 13 de março de 2026** — define cronograma dos 4 lotes de restituição.
+4. **Programa IRPF 2026** (PIR) — versão oficial da RFB para cálculo e transmissão.
+5. **Leis citadas**: 11.482/2007 (tabela progressiva), 9.250/1995 (deduções), 14.754/2023 (exterior), 14.790/2023 (bets), 14.973/2024 (atualização imóveis), 15.270/2025 (isenção R$ 5k + IRPFM, vigência 2026).
+
+> Conteúdo desta skill foi calibrado contra o **Perguntão IRPF 2026 v1.00** (23/04/2026). Em qualquer divergência, **prevalece o documento oficial**.
+
 ## Quando carregar cada arquivo
 
 | Arquivo | Carregar quando o usuário mencionar |
